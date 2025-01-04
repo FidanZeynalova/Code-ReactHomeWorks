@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone A",
+      "brand": "BrandX",
+      "price": 499,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "brand": "TechCorp",
+      "price": 1199,
+      "category": "Computers"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "brand": "GameGear",
+      "price": 49,
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "brand": "SoundMax",
+      "price": 79,
+      "category": "Audio"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch S",
+      "brand": "BrandY",
+      "price": 199,
+      "category": "Wearables"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Earbuds",
+      "brand": "EarTech",
+      "price": 129,
+      "category": "Audio"
+    },
+    {
+      "id": 7,
+      "name": "4K TV",
+      "brand": "ScreenWorld",
+      "price": 799,
+      "category": "Home Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Portable Charger",
+      "brand": "PowerUp",
+      "price": 39,
+      "category": "Accessories"
+    },
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "brand": "KitchenPro",
+      "price": 29,
+      "category": "Appliances"
+    },
+    {
+      "id": 10,
+      "name": "Digital Camera",
+      "brand": "PhotoHub",
+      "price": 549,
+      "category": "Photography"
+    },
+    {
+      "id": 11,
+      "name": "Tablet X",
+      "brand": "TechCorp",
+      "price": 599,
+      "category": "Computers"
+    },
+    {
+      "id": 12,
+      "name": "Gaming Console",
+      "brand": "GameZone",
+      "price": 399,
+      "category": "Entertainment"
+    },
+    {
+      "id": 13,
+      "name": "Fitness Tracker",
+      "brand": "HealthSync",
+      "price": 149,
+      "category": "Wearables"
+    },
+    {
+      "id": 14,
+      "name": "Desk Lamp",
+      "brand": "BrightLife",
+      "price": 25,
+      "category": "Home"
+    },
+    {
+      "id": 15,
+      "name": "Coffee Maker",
+      "brand": "KitchenPro",
+      "price": 79,
+      "category": "Appliances"
+    },
+    {
+      "id": 16,
+      "name": "External Hard Drive",
+      "brand": "DataSafe",
+      "price": 99,
+      "category": "Storage"
+    },
+    {
+      "id": 17,
+      "name": "Drone Camera",
+      "brand": "SkyView",
+      "price": 999,
+      "category": "Photography"
+    },
+    {
+      "id": 18,
+      "name": "Smart Thermostat",
+      "brand": "HomeTech",
+      "price": 199,
+      "category": "Home Automation"
+    },
+    {
+      "id": 19,
+      "name": "Noise Cancelling Headphones",
+      "brand": "SoundMax",
+      "price": 299,
+      "category": "Audio"
+    },
+    {
+      "id": 20,
+      "name": "Mechanical Keyboard",
+      "brand": "KeyPro",
+      "price": 89,
+      "category": "Accessories"
+    },
+    {
+      "id": 21,
+      "name": "Action Camera",
+      "brand": "AdventureCam",
+      "price": 199,
+      "category": "Photography"
+    },
+    {
+      "id": 22,
+      "name": "Electric Toothbrush",
+      "brand": "HealthCare",
+      "price": 49,
+      "category": "Personal Care"
+    },
+    {
+      "id": 23,
+      "name": "Smart Light Bulb",
+      "brand": "BrightLife",
+      "price": 19,
+      "category": "Home Automation"
+    },
+    {
+      "id": 24,
+      "name": "Vacuum Cleaner",
+      "brand": "CleanTech",
+      "price": 199,
+      "category": "Home Appliances"
+    }
+  ]
+}

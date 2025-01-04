@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Səndən Öncə Mən",
+      "description": " Hekayə, əlil olmuş Will Traynor ilə Louisa Clark arasında yaranan qeyri-adi münasibətləri və onların həyatına təsir edən böyük qərarları izlər.",
+      "price": 18.99,
+      "author": "Jojo Moyes",
+      "pagesCount": 480,
+      "publishedYear": 2012,
+      "genre": "Romantik",
+      "language": "Azərbaycanca",
+      "image": "https://static.insales-cdn.com/images/products/1/4761/171070105/9963d7a96b3e03dad6271412348121bd.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Səndən Sonra Mən",
+      "description": "Səndən Öncə Mən romanının davamı olan bu kitab, Louisa Clark-ın həyatının yeni mərhələsini araşdırır.",
+      "price": 19.99,
+      "author": "Jojo Moyes",
+      "pagesCount": 464,
+      "publishedYear": 2015,
+      "genre": "Romantik",
+      "language": "Azərbaycanca",
+      "image": "https://static.insales-cdn.com/images/products/1/4740/171070084/520f44ed3d0956131c54b341975159c9.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Siçanlar və Adamlar",
+      "description": "Böyük Depressiya dövründə iki dostun insanlıq dramını təsvir edən təsirli bir hekayə.",
+      "price": 12.99,
+      "author": "John Steinbeck",
+      "pagesCount": 107,
+      "publishedYear": 1937,
+      "genre": "Dram",
+      "language": "Azərbaycanca",
+      "image": "https://static.insales-cdn.com/images/products/1/6198/332986422/Steynbek_Sicanlar_ve_adamlar_ESAS.png"
+    },
+    {
+      "id": "4",
+      "title": "Kürk Paltolu Madonna",
+      "description": "Sevginin sirli və fədakar təbiətini araşdıran Türk ədəbiyyatının şah əsərlərindən biri.",
+      "price": 14.99,
+      "author": "Sabahattin Ali",
+      "pagesCount": 160,
+      "publishedYear": 1943,
+      "genre": "Dram",
+      "language": "Türkçə",
+      "image": "https://novella.az/wp-content/uploads/2021/12/Kurk-Mantolu-Madonna.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Enkaz Altındakılar",
+      "description": "Bir zəlzələ sonrası həyat mübarizəsi və insanlıq dramını təsirli şəkildə təsvir edən hekayə.",
+      "price": 15.99,
+      "author": "Beyza Alkoç",
+      "pagesCount": 320,
+      "publishedYear": 2021,
+      "genre": "Dram",
+      "language": "Türkçə",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaXluVAffTOqNekUxEUobB2vQ_lwMZoQ4-Euyq5tlfG7l5qXJHuJ0g5YhgvknbtIZ7qU&usqp=CAU"
+    },
+    {
+      "id": "6",
+      "title": "Şeker Portakalı",
+      "description": "Kasıb bir ailədə böyüyən balaca Zezenin duyğusal və dərslərlə dolu uşaqlıq hekayəsi.",
+      "price": 14.99,
+      "author": "José Mauro de Vasconcelos",
+      "pagesCount": 192,
+      "publishedYear": 1968,
+      "genre": "Dram",
+      "language": "Türkçə",
+      "image": "https://images.sosyopix.com/product-images/v2/10472/productdetailimageseker-portakali-1240x1240.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Bilinməyən Qadının Məktubu",
+      "description": "Bir qadının həyat boyu sevib, amma heç vaxt qarşılıq ala bilmədiyi kişiyə yazdığı təsirli məktub.",
+      "price": 11.99,
+      "author": "Stefan Zweig",
+      "pagesCount": 72,
+      "publishedYear": 1922,
+      "genre": "Psixoloji Dram",
+      "language": "Azərbaycanca",
+      "image": "https://gunlerden.wordpress.com/wp-content/uploads/2017/07/8e7455cc4f6fcc0e8f2bcfe4440a788d.jpg?w=350&h=510&crop=1"
+    },
+    {
+      "id": "8",
+      "title": "Pandalar Uça Bilir",
+      "description": "Gənclik illərindəki duyğular, itkilər və ümidlər haqqında təsirli bir hekayə.",
+      "price": 13.99,
+      "author": "Caner Yaman",
+      "pagesCount": 224,
+      "publishedYear": 2016,
+      "genre": "Gənclik Ədəbiyyatı",
+      "language": "Türkçə",
+      "image": "https://www.nezih.com.tr/pandalar-ucabilir-176550-93-B.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Çərpənəng Uçuran",
+      "description": "Bir gəncin həyatını dəyişdirən hadisələr və özünü tapma yolunda yaşadığı həyəcanlı anlar.",
+      "price": 14.99,
+      "author": "Xalid Hüseyn",
+      "pagesCount": 180,
+      "publishedYear": 2018,
+      "genre": "Dram",
+      "language": "Azərbaycanca",
+      "image": "https://kontakt.az/media/catalog/product/cache/a404967cc40694dc557cd869288440a4/t/m/tm-dg-kta-1119-tr-0012_4.png"
+    },
+    {
+      "id": "10",
+      "title": "Süt və Bal",
+      "description": "Südün və balın hər biri öz hekayəsini danışan simvollardır. Gənclərin həyatında qarşılaşdıqları sevgi və çətinliklər haqqında bir roman.",
+      "price": 16.99,
+      "author": "Rupi Kaur",
+      "pagesCount": 256,
+      "publishedYear": 2020,
+      "genre": "Romantik Drama",
+      "language": "Türkçə",
+      "image": "https://cdn.cimri.io/image/160x160/sut-ve-bal-rupi-kaur_209576410.jpg"
+    }
+  ]
+}

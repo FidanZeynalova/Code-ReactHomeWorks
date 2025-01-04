@@ -1,0 +1,95 @@
+{
+  "flowers": [
+    {
+      "id": "1",
+      "name": "Camellia",
+      "price": 27.55,
+      "description": "Flowers are nature's most exquisite creations, symbolizing beauty and elegance.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-1.jpg.webp"
+    },
+    {
+      "id": "2",
+      "name": "Jasmine",
+      "price": 37.99,
+      "description": "Each flower variety carries unique meanings, such as love, hope, or gratitude.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-2.jpg.webp"
+    },
+    {
+      "id": "3",
+      "name": "Roses",
+      "price": 42.42,
+      "description": "Roses, with their velvety petals, are often associated with romance and passion.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-3.jpg.webp"
+    },
+    {
+      "id": "4",
+      "name": "Lily",
+      "price": 49.99,
+      "description": "Lilies are admired for their graceful form and are a symbol of purity.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-4.jpg.webp"
+    },
+    {
+      "id": "5",
+      "name": "SunFlower",
+      "price": 54.34,
+      "description": "Sunflowers stand tall and vibrant, representing loyalty and longevity.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-5.jpg.webp"
+    },
+    {
+      "id": "6",
+      "name": "Orchids",
+      "price": 22.1,
+      "description": "Orchids are exotic flowers that embody luxury, beauty, and strength.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-6.jpg.webp"
+    },
+    {
+      "id": "7",
+      "name": "Lavender",
+      "price": 10.99,
+      "description": "The delicate cherry blossom is a fleeting symbol of renewal and the passage of time.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-7.jpg.webp"
+    },
+    {
+      "id": "8",
+      "name": "Tulips",
+      "price": 29.49,
+      "description": "Tulips, with their simple yet bold design, signify perfect love.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-8.jpg.webp"
+    },
+    {
+      "id": "9",
+      "name": "Daisy",
+      "price": 22.34,
+      "description": "Daisies are cheerful flowers often linked to innocence and new beginnings.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-9.jpg.webp"
+    },
+    {
+      "id": "10",
+      "name": "Violet",
+      "price": 22,
+      "description": "The violet plant is a delicate, fragrant flower known for its heart-shaped leaves and vibrant purple blossoms. ",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-10.jpg.webp"
+    },
+    {
+      "id": "11",
+      "name": " Peony",
+      "price": 46.53,
+      "description": "Peonies are lush, multi-petaled flowers symbolizing prosperity, romance, and honor, often used in weddings.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-11.jpg.webp"
+    },
+    {
+      "id": "12",
+      "name": " Marigold",
+      "price": 21.12,
+      "description": "Bright orange or yellow marigolds symbolize creativity and warmth, and they are often used in cultural festivals and ceremonies.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-12.jpg.webp"
+    },
+    {
+      "id": "13",
+      "name": "Hydrangea",
+      "price": 47.34,
+      "description": "Hydrangeas are round clusters of colorful blooms that symbolize heartfelt emotions, gratitude, and grace.",
+      "image": "https://preview.colorlib.com/theme/florist/img/product/product-13.jpg.webp"
+    }
+  ]
+}
