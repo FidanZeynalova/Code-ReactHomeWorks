@@ -620,16 +620,12 @@
 }
 .SectionTen {
   margin: 30px auto;
-  width: 100%;
   .container {
-    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
-    /* margin: 30px auto; */
+    justify-content: space-between;
 
     .card-wrapper {
-      width: 100%;
       margin: 30px auto;
       padding: 10px;
       display: grid;
@@ -637,11 +633,10 @@
       gap: 10px;
       .card {
         position: relative;
-        width: 100%;
         transition: transform 0.3s ease;
         .image {
           width: 100%;
-          height: 100%;
+          height: 300px;
           img {
             height: 100%;
             width: 100%;
@@ -1130,15 +1125,15 @@
     justify-content: center;
   }
 }
-.Admin-dashboard{
-.container{
+.Admin-dashboard {
+  .container {
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 15px;
     width: 80%;
     margin: 100px auto;
-    th{
+    th {
       font-size: 20px;
     }
   }
@@ -1252,7 +1247,7 @@
           }
         }
       }
-      .buttons{
+      .buttons {
         display: flex;
         align-items: center;
         gap: 10px;
