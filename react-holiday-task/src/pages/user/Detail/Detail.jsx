@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useContext, useEffect, useState } from 'react'
-import { Link, useParams } from 'react-router';
+import { Link, useNavigate, useParams } from 'react-router';
 import { BasketFlowers } from '../../../context/BasketContext';
 import Swal from 'sweetalert2';
 import { FavoritesFlowers } from '../../../context/FavoritesFlowers';
@@ -11,13 +11,17 @@ function Detail() {
   let { basketFlowers, setBasketFlowers } = useContext(BasketFlowers)
   let { favoritesFlowers, setFavoritesFlowers } = useContext(FavoritesFlowers)
   const { id } = useParams();
+  let navigator = useNavigate()
 
   useEffect(() => {
     axios.get(`http://localhost:4000/flowers/${id}`)
       .then((res) => {
         setFlower(res.data)
       })
-  }, [])
+      .catch(() => {
+        navigator("*")
+      })
+  }, [id])
 
   // Basket add etmek
   function handleBasket(flower) {

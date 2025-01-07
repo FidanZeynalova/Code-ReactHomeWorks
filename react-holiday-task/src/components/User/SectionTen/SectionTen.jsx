@@ -4,7 +4,7 @@ function SectionTen() {
     return (
         <div className='SectionTen'>
             <div className="container">
-                <div className="card-wrapper">
+                <div className="card-wrapper" >
                     <div className="card">
                         <div className="image">
                             <img src="https://preview.colorlib.com/theme/florist/img/instagram/insta-1.jpg.webp" alt="" />
