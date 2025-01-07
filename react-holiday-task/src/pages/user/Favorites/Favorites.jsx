@@ -4,6 +4,7 @@ import { FavoritesFlowers } from '../../../context/FavoritesFlowers'
 import { Link } from 'react-router'
 import Swal from 'sweetalert2'
 import { BasketFlowers } from '../../../context/BasketContext'
+import { Helmet } from 'react-helmet'
 
 function Favorites() {
   let { flowers, setFlowers } = useContext(FlowersContext)
@@ -71,6 +72,11 @@ function Favorites() {
   }
 
   return (
+
+ <>
+ <Helmet>
+      <title>Favorites Page</title>
+ </Helmet>
     <div className="User-favorites">
       <div className="container">
         <h1 style={{ color: "#f45d96" }}>Your Favorites Flowers</h1>
@@ -109,6 +115,7 @@ function Favorites() {
         <button className='fav-clear' onClick={() => handleClear()}>Clear All</button>
       </div>
     </div>
+ </>
   )
 }
 
